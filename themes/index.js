@@ -3,7 +3,9 @@ const themes = {
     title_color: "2f80ed",
     icon_color: "4c71f2",
     text_color: "333",
-    bg_color: "fffefe",
+    bg_color:linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%),
   },
   default_repocard: {
     title_color: "2f80ed",
@@ -213,7 +215,7 @@ const themes = {
     title_color: "FF79C6",
     icon_color: "e7de79",
     text_color: "E1E1E6",
-    bg_color: "191622"
+    bg_color: "191622",
   },
   react: {
     title_color: "61dafb",
